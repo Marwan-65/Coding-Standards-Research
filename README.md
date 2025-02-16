@@ -1,6 +1,5 @@
 
 
-
 # Coding Standards for PHP and JavaScript.
 
 In this report we will discuss different coding standards for PHP and JavaScript in terms of style guides and best practices. We will classify the style guides as the general outline that deals with the format of the code, and best practices as the rules that deal more with the behavior of the code.
